@@ -65,9 +65,6 @@ The frontend will run at `http://localhost:5173`.
 
 Open your browser and go to `http://localhost:5173` to interact with the chatbot.
 
-## ✅ Screenshots
-
-*(Add screenshots here once you run the app locally)*
 
 ### Chat UI Preview  
 ![Chat Interface](images/chat_ui.png)
