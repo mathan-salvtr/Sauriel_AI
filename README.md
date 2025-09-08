@@ -65,10 +65,6 @@ The frontend will run at `http://localhost:5173`.
 
 Open your browser and go to `http://localhost:5173` to interact with the chatbot.
 
-
-### Chat UI Preview  
-![Chat Interface](images/chat_ui.png)
-
 ## ✅ Future Improvements
 ✔ Integrate database storage for conversation history  
 ✔ Add user authentication  
@@ -81,4 +77,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Connect
 
-Feel free to reach out or contribute to this project on [GitHub](https://github.com/yourusername/sauriel-chatbot).
+Feel free to reach out or contribute to this project on [GitHub](https://github.com/mathan-salvtr).
